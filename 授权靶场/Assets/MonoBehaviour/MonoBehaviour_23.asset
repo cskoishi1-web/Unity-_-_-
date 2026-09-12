@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Facial_patrs
+    icon: {fileID: 2800000, guid: 26c908204bc79a34d9442c4574261a1c, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f83f50783b9047040a5cb70a36205434, type: 2}
+    subParameters: []
+    labels: []
+  - name: 插件
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 600e0590d7d50654180c48ef59b3bfa5, type: 2}
+    subParameters: []
+    labels: []
+  - name: 衣柜
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 99c7568139f02f54fa26babe1c40afb5, type: 2}
+    subParameters: []
+    labels: []
+  - name: 姿势替换
+    icon: {fileID: 2800000, guid: 0c9442fc2c3e7eb49b59eadeb2cc2208, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1e25628bf255b1c4bbb7646ab70aef70, type: 2}
+    subParameters: []
+    labels: []
+  - name: PuruPuru
+    icon: {fileID: 2800000, guid: 8777d5a3c564ade44868b864a92d1408, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 01eda2d03dcf8e24a8de4db36131ce1c, type: 2}
+    subParameters: []
+    labels: []
+  - name: 一键优化【会降低皮肤质量】
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: __MA/AutoParam/一键优化【会降低皮肤质量】$d51e35d5195d
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SPS
+    icon: {fileID: 2800000, guid: 16d32951699446f4cb07fd072b1b34a8, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b4c5a1c8d045add41aa9eabd203b8ded, type: 2}
+    subParameters: []
+    labels: []

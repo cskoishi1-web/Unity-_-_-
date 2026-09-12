@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » Light Limit Changer
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: 光照设置
+    icon: {fileID: 2800000, guid: 95dbb7b635adbec4bb9d4c48a4a65f18, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5d3e446c8354414499652a23ab6986fc, type: 2}
+    subParameters: []
+    labels: []
+  - name: Poiyomi
+    icon: {fileID: 2800000, guid: 9dec609e3574de64bb0678f60056d4a8, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f4ff9db9d3ec7cb4284643f99c693afb, type: 2}
+    subParameters: []
+    labels: []
+  - name: 预设
+    icon: {fileID: 2800000, guid: 6947bee22a193bf41b304cac5320bdff, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 42417c2cd2980cb4d8d9e12088acde36, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hidden/VRCFury/SpsSocketMarker
+  m_Shader: {fileID: 4800000, guid: 5ca92f1e9fc35504aba297fd1acd62df, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    _SPS_ConfiguredAnimated: 1
+    _SPS_GuidedTargetIdHighAnimated: 1
+    _SPS_GuidedTargetIdLowAnimated: 1
+    _SPS_IdHighAnimated: 1
+    _SPS_IdLowAnimated: 1
+    _SPS_PlayerIdHighAnimated: 1
+    _SPS_PlayerIdLowAnimated: 1
+    _SPS_SocketDoubleSidedAnimated: 1
+    _SPS_SocketHoleAnimated: 1
+    _SPS_SocketRadiusOffsetAnimated: 1
+    _SPS_SocketScaleAnimated: 1
+    _SPS_SocketTag1HighAnimated: 1
+    _SPS_SocketTag1LowAnimated: 1
+    _SPS_SocketTag2HighAnimated: 1
+    _SPS_SocketTag2LowAnimated: 1
+    _SPS_SocketTag3HighAnimated: 1
+    _SPS_SocketTag3LowAnimated: 1
+    _SPS_SocketTag4HighAnimated: 1
+    _SPS_SocketTag4LowAnimated: 1
+    _SPS_SocketTag5HighAnimated: 1
+    _SPS_SocketTag5LowAnimated: 1
+    _SPS_SocketTag6HighAnimated: 1
+    _SPS_SocketTag6LowAnimated: 1
+    _SPS_SocketTag7HighAnimated: 1
+    _SPS_SocketTag7LowAnimated: 1
+    _SPS_SocketTag8HighAnimated: 1
+    _SPS_SocketTag8LowAnimated: 1
+    _SPS_SocketTangentInAnimated: 1
+    _SPS_SocketTangentOutAnimated: 1
+    _SPS_SocketUnlockAllAnimated: 1
+    _SPS_SocketUnlockLocalXAnimated: 1
+    _SPS_SocketUseTangentInAnimated: 1
+    _SPS_SocketUseTangentOutAnimated: 1
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: {}
+    m_Ints: {}
+    m_Floats:
+      _SPS_Configured: 0
+      _SPS_GuidedTargetIdHigh: 0
+      _SPS_GuidedTargetIdLow: 0
+      _SPS_IdHigh: 0
+      _SPS_IdLow: 0
+      _SPS_PlayerIdHigh: 0
+      _SPS_PlayerIdLow: 0
+      _SPS_SocketDoubleSided: 0
+      _SPS_SocketHole: 0
+      _SPS_SocketRadiusOffset: 0
+      _SPS_SocketScale: 1
+      _SPS_SocketTag1High: 0
+      _SPS_SocketTag1Low: 0
+      _SPS_SocketTag2High: 0
+      _SPS_SocketTag2Low: 0
+      _SPS_SocketTag3High: 0
+      _SPS_SocketTag3Low: 0
+      _SPS_SocketTag4High: 0
+      _SPS_SocketTag4Low: 0
+      _SPS_SocketTag5High: 0
+      _SPS_SocketTag5Low: 0
+      _SPS_SocketTag6High: 0
+      _SPS_SocketTag6Low: 0
+      _SPS_SocketTag7High: 0
+      _SPS_SocketTag7Low: 0
+      _SPS_SocketTag8High: 0
+      _SPS_SocketTag8Low: 1337
+      _SPS_SocketUnlockAll: 0
+      _SPS_SocketUnlockLocalX: 0
+      _SPS_SocketUseTangentIn: 0
+      _SPS_SocketUseTangentOut: 0
+    m_Colors:
+      _SPS_SocketTangentIn: {r: 0, g: 0, b: 0, a: 0}
+      _SPS_SocketTangentOut: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

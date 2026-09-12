@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » PCS v1.9.2 » Sound & Location
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Mouth
+    icon: {fileID: 2800000, guid: fad76f59e445ab34bb61a899a8283f70, type: 3}
+    type: 102
+    parameter:
+      name: pcs/select/mouth
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Boobs
+    icon: {fileID: 2800000, guid: 847d7ea3bf503114bbefd97a2017e5e0, type: 3}
+    type: 102
+    parameter:
+      name: pcs/select/boobs
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pussy
+    icon: {fileID: 2800000, guid: f37b4e6416d3caa42ad4b6186059c373, type: 3}
+    type: 102
+    parameter:
+      name: pcs/select/pussy
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Ass
+    icon: {fileID: 2800000, guid: 3f0b67baa8c36084fb24350b8abcb335, type: 3}
+    type: 102
+    parameter:
+      name: pcs/select/ass
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

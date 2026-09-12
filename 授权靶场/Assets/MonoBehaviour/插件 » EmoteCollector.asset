@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » EmoteCollector
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Speed/Height
+    icon: {fileID: 2800000, guid: d916c7459dc8e60468267f055fd5e439, type: 3}
+    type: 203
+    parameter:
+      name: EC/OpenRadial
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: EC/Speed
+    labels: []
+  - name: AllReset
+    icon: {fileID: 2800000, guid: 68cbdd3e84029f34cb726dd1b240fee2, type: 3}
+    type: 101
+    parameter:
+      name: EC/AllReset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Defalt(1-8)
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 249423864f9c9074bbaf7ba8f86ad4d5, type: 2}
+    subParameters: []
+    labels: []
+  - name: Relax(9-16)
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 00287591720c3654bb4d0d524dabec1d, type: 2}
+    subParameters: []
+    labels: []
+  - name: 17-24
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: cbcae58b414c4a840938160687e86a21, type: 2}
+    subParameters: []
+    labels: []
+  - name: 25-32
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8d9a80b775439fc4a9551ecd22cff6b8, type: 2}
+    subParameters: []
+    labels: []
+  - name: 33-40
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f406e0c8e51bb8f4e9fcae52b2d536e2, type: 2}
+    subParameters: []
+    labels: []
+  - name: NextPage
+    icon: {fileID: 2800000, guid: 130b94b4dee618948900f0cd8998e3e9, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e6eda56b4e9b2414f96154a43d81757e, type: 2}
+    subParameters: []
+    labels: []

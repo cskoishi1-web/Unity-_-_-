@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 姿势替换 » 蹲姿 » More
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: 伸腿蹲伏2（双腿并拢）
+    icon: {fileID: 2800000, guid: b1f6299164769f14f9a45a7c854733f1, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 伸腿蹲伏2（双腿微开）
+    icon: {fileID: 2800000, guid: 95375b288ce6b72488f7d6c7a4a23b05, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 伸腿蹲伏2（双腿大开）
+    icon: {fileID: 2800000, guid: 8d373dfef761fa047a9e8ff78fa888dc, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 盘腿蹲伏
+    icon: {fileID: 2800000, guid: d583e54c7d7758445b106bc6fdef9b1d, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 正坐蹲伏
+    icon: {fileID: 2800000, guid: cd2a635586316264992e0e483fafbf6c, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 优雅蹲伏
+    icon: {fileID: 2800000, guid: ea4cc7f612b984747875bd28fd6d82e7, type: 3}
+    type: 102
+    parameter:
+      name: CLVR/CrouchType
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

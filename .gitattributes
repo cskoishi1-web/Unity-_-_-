@@ -1,1 +1,10 @@
-F:/Unity逆向课程/第四课/配套资源/授权靶场 filter=lfs diff=lfs merge=lfs -text
+# Unity 逆向课程 - 第四课 配套资源 / 授权靶场
+#
+# GitHub 普通 Git 推送限制：单文件超 50MB 告警，超 100MB 直接拒绝推送。
+# 因此仅下列两个超限二进制资源交给 Git LFS，其余 7800+ 文件走普通 Git，
+# 保证仓库网页端可直接浏览资源内容，同时把 LFS 配额消耗压到最低。
+#
+# 规则必须写仓库内相对路径；绝对路径（如 F:/...）永远不命中任何文件，LFS 会静默失效。
+# 注意：gitattributes 的 pattern 不支持空格转义，含空格的路径无法用规则匹配。
+授权靶场/Assets/Mesh/AAOGeneratedMesh$$AAO_AUTO_MERGE_SKINNED_MESH_12.asset filter=lfs diff=lfs merge=lfs -text
+授权靶场/Assets/Mesh/AAOGeneratedMeshBody.asset filter=lfs diff=lfs merge=lfs -text

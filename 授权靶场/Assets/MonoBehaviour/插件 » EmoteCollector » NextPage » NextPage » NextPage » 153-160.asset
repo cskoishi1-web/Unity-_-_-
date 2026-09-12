@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » EmoteCollector » NextPage » NextPage » NextPage » 153-160
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Emote_153
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 153
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_154
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 154
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_155
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 155
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_156
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 156
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_157
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 157
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_158
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 158
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_159
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 159
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_160
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 160
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
