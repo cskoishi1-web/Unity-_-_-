@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: '插件 » Face Tracking » '
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Disable Emote
+    icon: {fileID: 2800000, guid: bf87b1df7aab78d40b90e8ad4d14f5fa, type: 3}
+    type: 102
+    parameter:
+      name: FacialExpressionsDisabled
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: EyeLook Smooth
+    icon: {fileID: 2800000, guid: 500a0b51f277d5248b201630139176f4, type: 3}
+    type: 203
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: FT/Local/EyeLookSmoother
+    labels: []
+  - name: Eyelid Smooth
+    icon: {fileID: 2800000, guid: bb4bbcc1b7af8824d9172f851b2a22f9, type: 3}
+    type: 203
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: FT/Local/EyeLidSmoother
+    labels: []
+  - name: Mouth Smooth
+    icon: {fileID: 2800000, guid: b7137f7715503a44ba61140dd4f1a221, type: 3}
+    type: 203
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: FT/Local/MouthSmoother
+    labels: []
+  - name: Tongue Smooth
+    icon: {fileID: 2800000, guid: 69f5f7b4ef19e574a879e526f6c81a42, type: 3}
+    type: 203
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: FT/Local/TongueSmoother
+    labels: []
+  - name: Visemes
+    icon: {fileID: 2800000, guid: 7d654efcac2749c41aaea4d6addac09a, type: 3}
+    type: 102
+    parameter:
+      name: VisemesEnable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Force Tongue Out
+    icon: {fileID: 2800000, guid: d1538368e2fe68745a4e5a532a0db5b1, type: 3}
+    type: 102
+    parameter:
+      name: ForceTongueOutToggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

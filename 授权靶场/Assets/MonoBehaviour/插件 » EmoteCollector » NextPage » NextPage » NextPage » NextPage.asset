@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » EmoteCollector » NextPage » NextPage » NextPage » NextPage
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Speed
+    icon: {fileID: 2800000, guid: d916c7459dc8e60468267f055fd5e439, type: 3}
+    type: 203
+    parameter:
+      name: EC/OpenRadial
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: EC/Speed
+    labels: []
+  - name: AllReset
+    icon: {fileID: 2800000, guid: 68cbdd3e84029f34cb726dd1b240fee2, type: 3}
+    type: 101
+    parameter:
+      name: EC/AllReset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 161-168
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2f4a191a727c9c847b8573866c3d0d3e, type: 2}
+    subParameters: []
+    labels: []
+  - name: 169-176
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 624ea8a4ab7639e499b5fcefa1acbc76, type: 2}
+    subParameters: []
+    labels: []
+  - name: 177-184
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5154aadb4a84bce4c9c24f0426edde83, type: 2}
+    subParameters: []
+    labels: []
+  - name: 185-192
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 73e81f2404aa0a942a3a42d51d3b6adb, type: 2}
+    subParameters: []
+    labels: []
+  - name: 193-200
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4238d4588121baf41ba52dfee2579696, type: 2}
+    subParameters: []
+    labels: []
+  - name: 201-208
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8922b690a1a17904188a48f6bfcdd2a8, type: 2}
+    subParameters: []
+    labels: []

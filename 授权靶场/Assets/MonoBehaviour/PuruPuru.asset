@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: PuruPuru
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Butt
+    icon: {fileID: 2800000, guid: 9c7186f486672ca468f9fa19009ceb31, type: 3}
+    type: 102
+    parameter:
+      name: Pudding_Butt_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Thigh
+    icon: {fileID: 2800000, guid: 9476669afe4950e4db2e4d536e6d41e4, type: 3}
+    type: 102
+    parameter:
+      name: Pudding_Thigh_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Calf
+    icon: {fileID: 2800000, guid: 28ee2dfe3868c414eb3e4a20c93baf08, type: 3}
+    type: 102
+    parameter:
+      name: Pudding_Calf_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SideStomach
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Pudding_SideStomach_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Belly
+    icon: {fileID: 2800000, guid: 31f34c4f19f03924385f7f6bb4ed5bc0, type: 3}
+    type: 102
+    parameter:
+      name: Pudding_Belly_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: UpperArm
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Pudding_UpperArm_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Breast
+    icon: {fileID: 2800000, guid: 72411b66eea34d64a9b04e650b46cf35, type: 3}
+    type: 102
+    parameter:
+      name: Pudding_Breast_Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: More
+    icon: {fileID: 2800000, guid: b17b2290ca1ab0a4cb8d9800a9103bf4, type: 3}
+    type: 103
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9c60ef61526a1dd4ab634af0c5049377, type: 2}
+    subParameters: []
+    labels: []

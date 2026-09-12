@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 插件 » More » SPS Menu » Hand
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: Hand_R
+    icon: {fileID: 2800000, guid: 80af33685b8d9f14686ee5427fe80d5f, type: 3}
+    type: 102
+    parameter:
+      name: Location
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hand_L
+    icon: {fileID: 2800000, guid: a4d5996a98aa30e46bf8248cbf29aa4e, type: 3}
+    type: 102
+    parameter:
+      name: Location
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

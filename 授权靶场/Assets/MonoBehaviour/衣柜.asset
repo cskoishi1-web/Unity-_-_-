@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: 衣柜
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: 上一件
+    icon: {fileID: 2800000, guid: 01690478ba5b4a146a9b8bd2e27ebeb4, type: 3}
+    type: 101
+    parameter:
+      name: 衣柜本地参数/衣服-按钮/-b
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 下一件
+    icon: {fileID: 2800000, guid: 699a6dd5bd50f0c449958a5fd2fa57b2, type: 3}
+    type: 101
+    parameter:
+      name: 衣柜本地参数/衣服-按钮/+b
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 发型
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2c4eebe8d81caf7469823314a2a41085, type: 2}
+    subParameters: []
+    labels: []
+  - name: 衣服
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8a94f950d7e65114086bba14feab5e64, type: 2}
+    subParameters: []
+    labels: []
+  - name: 配件
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 25728dd7cb68df241a97c9645777eacd, type: 2}
+    subParameters: []
+    labels: []
+  - name: 丝袜
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: c042842324d97954f826f02aeee84843, type: 2}
+    subParameters: []
+    labels: []
+  - name: 胶衣
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: d8764db0c38a5cc4c9b17ccf4cdb1386, type: 2}
+    subParameters: []
+    labels: []
+  - name: 鞋子
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name:
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1c09731081823194eb6dca46e47a9f97, type: 2}
+    subParameters: []
+    labels: []
