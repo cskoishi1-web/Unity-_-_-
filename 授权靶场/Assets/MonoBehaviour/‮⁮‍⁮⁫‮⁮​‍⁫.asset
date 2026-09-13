@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ‮⁮‍⁮⁫‮⁮​‍⁫
+  m_EditorClassIdentifier:
+  Parameters: {fileID: 0}
+  controls:
+  - name: FT by MrSauce!
+    icon: {fileID: 2800000, guid: 5f5115e2f0706d245bb9fe410485b1da, type: 3}
+    type: 101
+    parameter:
+      name:
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Settings
+    icon: {fileID: 2800000, guid: 21a57db3f48b44c48bd2bf60e7c460f7, type: 3}
+    type: 103
+    parameter:
+      name: ⁮‬‮⁪‍‬‫‍​⁮
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: ae2039d8c3f614241922edc93b38c3b6, type: 2}
+    subParameters: []
+    labels: []
+  - name: Lip Tracking
+    icon: {fileID: 2800000, guid: 9f48955b429dc8d408e50958a71dcd02, type: 3}
+    type: 102
+    parameter:
+      name: ⁪‍‍⁯‮‏‍‬‭‍
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eye Tracking
+    icon: {fileID: 2800000, guid: 267826bd7e564e540bd53d7984e01cb5, type: 3}
+    type: 102
+    parameter:
+      name: ‮‌‮​‮⁭⁮‮‌‫
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eye Dilation Tracking
+    icon: {fileID: 2800000, guid: 6f20ead9b8e4888419ef924c13ae17fa, type: 3}
+    type: 102
+    parameter:
+      name: ⁫⁯​⁫⁮‌​⁯‭‭
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Visemes Enabled
+    icon: {fileID: 2800000, guid: 64c91fe52ec7b2342ad0be9f2af15c8c, type: 3}
+    type: 102
+    parameter:
+      name: ‌‏​‬⁯⁪‏⁯⁮‮
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Disable Facial Expressions
+    icon: {fileID: 2800000, guid: 2daab8b6c7f771d4dbd94594586102ea, type: 3}
+    type: 102
+    parameter:
+      name: ‮‫⁫‮‮⁫​‬‫⁭
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
